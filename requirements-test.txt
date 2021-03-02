@@ -2,3 +2,4 @@ coverage
 hypothesis
 pyperf
 pytest
+pytest-coverage
