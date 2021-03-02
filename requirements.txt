@@ -2,3 +2,4 @@
 attrs
 click
 jsonschema
+xmlschema
