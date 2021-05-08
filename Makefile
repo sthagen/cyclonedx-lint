@@ -2,7 +2,7 @@ SHELL = /bin/bash
 package = shagen/cyclonedx-lint
 
 .PHONY: all available
-all: ; $(info $$var is [${var}])echo Hello world
+all:
 	@echo "usage: "
 	@echo "       make clean - removes output files"
 	@echo "       make image - builds container image"
