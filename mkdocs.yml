@@ -32,8 +32,8 @@ extra:
 
 copyright: Copyright &copy; 2022 Stefan Hagen under the MIT license
 
-repo_name: sthagen/cyclonedx-lint
-repo_url: https://github.com/sthagen/cyclonedx-lint
+repo_name: ~sthagen/cyclonedx-lint
+repo_url: https://git.sr.ht/~sthagen/cyclonedx-lint
 edit_uri: ""
 
 plugins:
