@@ -1,2 +1,2 @@
-# -*- coding: utf-8 -*-
-# pylint: disable=expression-not-assigned,line-too-long
+def parse():  # type: ignore
+    return NotImplemented
