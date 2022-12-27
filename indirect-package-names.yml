@@ -1,0 +1,6 @@
+---
+packages:
+- attrs
+- click
+- elementpath
+- pyrsistent
