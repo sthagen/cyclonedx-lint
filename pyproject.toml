@@ -49,9 +49,6 @@ cyclonedx-lint = "cyclonedx_lint.cli:app"
 include = ["cyclonedx_lint"]
 exclude = ["test*"]
 
-[bdist_wheel]
-universal = true
-
 [tool.black]
 line-length = 120
 skip-string-normalization = true
