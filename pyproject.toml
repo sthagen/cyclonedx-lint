@@ -28,7 +28,7 @@ keywords = [
 dependencies = [
     "jsonschema >= 4.17.3",
     "typer >= 0.7.0",
-    "xmlschema >= 2.2.2",
+    "xmlschema >= 2.2.3",
 ]
 requires-python = ">=3.9"
 
