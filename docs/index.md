@@ -11,6 +11,7 @@ Third party dependencies are documented in the folder [third-party](third-party/
 [![wheel](https://img.shields.io/pypi/wheel/cyclonedx-lint.svg?style=flat)](https://pypi.python.org/pypi/cyclonedx-lint/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/cyclonedx-lint.svg?style=flat)](https://pypi.python.org/pypi/cyclonedx-lint/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/cyclonedx-lint.svg?style=flat)](https://pypi.python.org/pypi/cyclonedx-lint/)
+[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/cyclonedx-lint.svg?style=flat)](https://git.sr.ht/~sthagen/cyclonedx-lint/log)
 
 ## Bug Tracker
 
