@@ -27,7 +27,7 @@ keywords = [
     "validation",
 ]
 dependencies = [
-    "jsonschema >= 4.18.0",
+    "jsonschema >= 4.18.2",
     "typer >= 0.9.0",
     "xmlschema >= 2.3.1",
 ]
