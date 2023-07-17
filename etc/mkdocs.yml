@@ -1,5 +1,7 @@
 site_name: CycloneDX-lint
 site_description: "Experimental CycloneDX baseline validator."
+docs_dir: ../docs
+site_dir: ../site
 
 theme:
   name: 'material'
