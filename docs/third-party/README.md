@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/cyclonedx-lint/blob/default/sbom/cdx.json) with SHA256 checksum ([46c1f15f ...](https://git.sr.ht/~sthagen/cyclonedx-lint/blob/default/sbom/cdx.json.sha256 "sha256:46c1f15f60e6f7ed7c04cb9178ce4ddedcff9ad30b99e100a6ce75536d0d93a7")).
-<!--[[[end]]] (checksum: 443302351b57f8d74309d17d0b9c8dd2)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/cyclonedx-lint/blob/default/sbom/cdx.json) with SHA256 checksum ([3ac70ca4 ...](https://git.sr.ht/~sthagen/cyclonedx-lint/blob/default/sbom/cdx.json.sha256 "sha256:3ac70ca4b4f301272691d9b69e97b6e5896e1ebeaf0cce8a5fa0035bd71edf45")).
+<!--[[[end]]] (checksum: 6a619ce071a3e9ab4d64aaa96144664c)-->
 ## Licenses
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -10,12 +10,13 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 ### Direct Dependencies
 
 <!--[[[fill direct_dependencies_table()]]]-->
-| Name                                                          | Version                                               | License     | Author            | Description (from packaging data)                                  |
-|:--------------------------------------------------------------|:------------------------------------------------------|:------------|:------------------|:-------------------------------------------------------------------|
-| [jsonschema](https://github.com/python-jsonschema/jsonschema) | [4.19.0](https://pypi.org/project/jsonschema/4.19.0/) | MIT License | Julian Berman     | An implementation of JSON Schema validation for Python             |
-| [typer](https://github.com/tiangolo/typer)                    | [0.9.0](https://pypi.org/project/typer/0.9.0/)        | MIT License | Sebastián Ramírez | Typer, build great CLIs. Easy to code. Based on Python type hints. |
-| [xmlschema](https://github.com/sissaschool/xmlschema)         | [2.4.0](https://pypi.org/project/xmlschema/2.4.0/)    | MIT License | Davide Brunato    | An XML Schema validator and decoder                                |
-<!--[[[end]]] (checksum: 040ad467779bda45bde3edd98c47f127)-->
+| Name                                                            | Version                                                | License     | Author            | Description (from packaging data)                                  |
+|:----------------------------------------------------------------|:-------------------------------------------------------|:------------|:------------------|:-------------------------------------------------------------------|
+| [jsonschema](https://github.com/python-jsonschema/jsonschema)   | [4.19.0](https://pypi.org/project/jsonschema/4.19.0/)  | MIT License | Julian Berman     | An implementation of JSON Schema validation for Python             |
+| [referencing](https://github.com/python-jsonschema/referencing) | [0.30.2](https://pypi.org/project/referencing/0.30.2/) | MIT License | Julian Berman     | JSON Referencing + Python                                          |
+| [typer](https://github.com/tiangolo/typer)                      | [0.9.0](https://pypi.org/project/typer/0.9.0/)         | MIT License | Sebastián Ramírez | Typer, build great CLIs. Easy to code. Based on Python type hints. |
+| [xmlschema](https://github.com/sissaschool/xmlschema)           | [2.4.0](https://pypi.org/project/xmlschema/2.4.0/)     | MIT License | Davide Brunato    | An XML Schema validator and decoder                                |
+<!--[[[end]]] (checksum: 60bf34b4b3e2be81abca5760ac5554d8)-->
 
 ### Indirect Dependencies
 
@@ -47,10 +48,10 @@ Base graphviz file in dot format: [Trees of the direct dependencies](package-dep
 jsonschema==4.19.0
 ├── attrs [required: >=22.2.0, installed: 23.1.0]
 ├── jsonschema-specifications [required: >=2023.03.6, installed: 2023.6.1]
-│   └── referencing [required: >=0.28.0, installed: 0.29.1]
+│   └── referencing [required: >=0.28.0, installed: 0.30.2]
 │       ├── attrs [required: >=22.2.0, installed: 23.1.0]
 │       └── rpds-py [required: >=0.7.0, installed: 0.8.11]
-├── referencing [required: >=0.28.4, installed: 0.29.1]
+├── referencing [required: >=0.28.4, installed: 0.30.2]
 │   ├── attrs [required: >=22.2.0, installed: 23.1.0]
 │   └── rpds-py [required: >=0.7.0, installed: 0.8.11]
 └── rpds-py [required: >=0.7.1, installed: 0.8.11]
@@ -60,4 +61,4 @@ typer==0.9.0
 xmlschema==2.4.0
 └── elementpath [required: >=4.1.5,<5.0.0, installed: 4.1.5]
 ````
-<!--[[[end]]] (checksum: 18554b62e8f88333f92d9567a9d6336b)-->
+<!--[[[end]]] (checksum: 8d94d20981a4113866fc119e62e8822c)-->
