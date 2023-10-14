@@ -2,7 +2,9 @@
 
 Experimental CycloneDX baseline validator.
 
-[License: MIT](https://github.com/sthagen/cyclonedx-lint/blob/default/LICENSE)
+[License: MIT](https://github.com/sthagen/cyclonedx-lint/blob/default/LICENSE) |
+[Country of origin: Switzerland](https://git.sr.ht/~sthagen/cyclonedx-lint/tree/default/item/COUNTRY-OF-ORIGIN) |
+[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/cyclonedx-lint/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
 
 Third party dependencies are documented in the folder [third-party](third-party/README.md).
 
