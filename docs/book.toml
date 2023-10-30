@@ -11,7 +11,16 @@ title = "Cyclonedx-lint"
 builddir = "book"
 
 [output.html]
-mathjax-support = true
-site-url = "/docs/cyclonedx-lint"
+default-theme = "coal"
 git-repository-url = "https://git.sr.ht/~sthagen/cyclonedx-lint"
+git-repository-icon = "fa-code-fork"
+mathjax-support = true
+no-section-label = true
+preferred-dark-theme = "navy"
+site-url = "/docs/cyclonedx-lint"
 
+[output.html.print]
+enable = false
+
+[output.html.fold]
+enable = false
