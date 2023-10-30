@@ -8,7 +8,7 @@ Experimental CycloneDX baseline validator.
 [![Configuration](docs/badges/configuration-sbom.svg)](https://git.sr.ht/~sthagen/cyclonedx-lint/tree/default/item/docs/third-party/README.md)
 
 [![Version](https://img.shields.io/pypi/v/cyclonedx-lint.svg?style=flat)](https://pypi.python.org/pypi/cyclonedx-lint/)
-[![Downloads](https://static.pepy.tech/badge/cyclonedx-lint/month)](https://pepy.tech/project/cyclonedx-lint)
+[![Downloads](docs/badges/downloads-per-month.svg)](https://pepy.tech/project/cyclonedx-lint)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/cyclonedx-lint.svg?style=flat)](https://pypi.python.org/pypi/cyclonedx-lint/)
 [![Maintenance Status](docs/badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/cyclonedx-lint/log)
 
