@@ -10,7 +10,7 @@ Experimental CycloneDX baseline validator.
 [![Version](https://img.shields.io/pypi/v/cyclonedx-lint.svg?style=flat)](https://pypi.python.org/pypi/cyclonedx-lint/)
 [![Downloads](https://static.pepy.tech/badge/cyclonedx-lint/month)](https://pepy.tech/project/cyclonedx-lint)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/cyclonedx-lint.svg?style=flat)](https://pypi.python.org/pypi/cyclonedx-lint/)
-[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/cyclonedx-lint.svg?style=flat)](https://git.sr.ht/~sthagen/cyclonedx-lint/log)
+[![Maintenance Status](docs/badges/downloads-per-month.svg)](https://git.sr.ht/~sthagen/cyclonedx-lint/log)
 
 ## Bug Tracker
 
