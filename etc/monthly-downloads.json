@@ -153,7 +153,7 @@
     {
       "category": "null",
       "date": "2023-05",
-      "downloads": 7
+      "downloads": 6
     },
     {
       "category": "null",
@@ -183,7 +183,7 @@
     {
       "category": "null",
       "date": "2023-11",
-      "downloads": 1
+      "downloads": 2
     }
   ],
   "package": "cyclonedx-lint",
