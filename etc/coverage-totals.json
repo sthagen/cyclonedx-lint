@@ -1,7 +1,7 @@
 {
   "cyclonedx-lint": {
-    "version": "7.3.2",
-    "timestamp": "2023-12-02T15:16:41.116616",
+    "coverage_tool_version": "7.3.2",
+    "timestamp": "2023-12-02 15:53:18 +00:00",
     "branch_coverage": true,
     "show_contexts": true,
     "covered_lines": 6,
@@ -13,6 +13,22 @@
     "num_branches": 2,
     "num_partial_branches": 0,
     "covered_branches": 2,
-    "missing_branches": 0
+    "missing_branches": 0,
+    "node_id": "c79891e5-aabf-3a83-95b9-588edcd8327f",
+    "nfiles": 3,
+    "files": [
+      "cyclonedx_lint/__init__.py",
+      "cyclonedx_lint/cli.py",
+      "cyclonedx_lint/lint.py"
+    ],
+    "blake3": "fed6a21dd9696e67e57fd9f3d96552ad56fa0a27b76e197b16f225cb2b8bb114",
+    "blake2": "eed2f0a57cf1ef76c59d2cec8da27794e47fb6ce786bc0cfcdff7fb33c3d3a204b44dfb63b8df4ec9cc65a4b8dd4aae2ccee94ef57079ae0486a6b5737c72d7c",
+    "sha512": "8cbf8efd8bea175d033749003022d1da8498f4577e43c17891bd76bbaeb52abf763da633111c36fd331eaab0ed991e29a56316f5ae22f148ef423235364375a0",
+    "sha384": "fff0f8b3f9faf391f472d7efbb2c2a201f8470bd3d7617710cdb42ead6b332e276dfc849a5858b9b03cfcbac28c72ed1",
+    "sha256": "a0b096cb89149b8ac8ac8b8287f0ad6b39607bf8c17b5039cd82e23f5857bc96",
+    "sha1": "9b71f2d364613a2cabcd915917fd94aca28bcb66",
+    "md5": "f85da4775be730c0439c89f63719b0f3",
+    "python_version": "3.10.12",
+    "entropy": 5.033041
   }
 }
