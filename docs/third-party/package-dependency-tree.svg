@@ -20,7 +20,7 @@
 <title>attrs</title>
 <ellipse fill="none" stroke="black" cx="148.97" cy="-28.99" rx="35.71" ry="28.99"/>
 <text text-anchor="middle" x="148.97" y="-32.19" font-family="Times,serif" font-size="14.00">attrs</text>
-<text text-anchor="middle" x="148.97" y="-15.69" font-family="Times,serif" font-size="14.00">23.1.0</text>
+<text text-anchor="middle" x="148.97" y="-15.69" font-family="Times,serif" font-size="14.00">23.2.0</text>
 </g>
 <!-- jsonschema&#45;&gt;attrs -->
 <g id="edge1" class="edge">
@@ -48,7 +48,7 @@
 <title>referencing</title>
 <ellipse fill="none" stroke="black" cx="235.97" cy="-139.47" rx="54.8" ry="28.99"/>
 <text text-anchor="middle" x="235.97" y="-142.67" font-family="Times,serif" font-size="14.00">referencing</text>
-<text text-anchor="middle" x="235.97" y="-126.17" font-family="Times,serif" font-size="14.00">0.32.0</text>
+<text text-anchor="middle" x="235.97" y="-126.17" font-family="Times,serif" font-size="14.00">0.32.1</text>
 </g>
 <!-- jsonschema&#45;&gt;referencing -->
 <g id="edge3" class="edge">
