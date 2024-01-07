@@ -3,23 +3,44 @@
   "spdxVersion" : "SPDX-2.3",
   "creationInfo" : {
     "comment" : "Converted from CycloneDX spec version 1.4",
-    "created" : "2024-01-05T19:11:05Z",
+    "created" : "2024-01-07T12:29:47Z",
     "creators" : [ "Tool: CycloneDX:cyclonedx-bom-3.11.7", "Tool: CycloneDX:cyclonedx-python-lib-3.1.5", "Tool: CycloneToSpdx-0.1.4" ],
     "licenseListVersion" : "3.22"
   },
   "name" : "From-Cyclone-DX",
   "dataLicense" : "CC0-1.0",
   "annotations" : [ {
-    "annotationDate" : "2024-01-05T19:11:06Z",
+    "annotationDate" : "2024-01-07T12:29:49Z",
     "annotationType" : "OTHER",
     "annotator" : "Tool: CycloneToSpdx",
     "comment" : "MISSING_CDX_PROPERTY:extensions={}"
   } ],
-  "documentNamespace" : "https://cyclonedx/fdd706e2-a120-406e-a385-da0a7eb94729_1",
+  "documentNamespace" : "https://cyclonedx/70adcfeb-9077-4d20-b13b-aa88a3578d18_1",
   "packages" : [ {
-    "SPDXID" : "SPDXRef-3aa6ce09-2046-490e-b1b0-193f093646d8",
+    "SPDXID" : "SPDXRef-76a5f25d-e025-402b-8462-e0e1098d10f0",
     "annotations" : [ {
-      "annotationDate" : "2024-01-05T19:11:06Z",
+      "annotationDate" : "2024-01-07T12:29:49Z",
+      "annotationType" : "OTHER",
+      "annotator" : "Tool: CycloneToSpdx",
+      "comment" : "MISSING_CDX_PROPERTY:componentType=\"LIBRARY\""
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "downloadLocation" : "NOASSERTION",
+    "externalRefs" : [ {
+      "referenceCategory" : "PACKAGE-MANAGER",
+      "referenceLocator" : "pkg:pypi/xmlschema@3.0.0",
+      "referenceType" : "purl"
+    } ],
+    "filesAnalyzed" : false,
+    "licenseConcluded" : "NOASSERTION",
+    "licenseDeclared" : "NOASSERTION",
+    "name" : "xmlschema",
+    "primaryPackagePurpose" : "LIBRARY",
+    "versionInfo" : "3.0.0"
+  }, {
+    "SPDXID" : "SPDXRef-b5c7629d-e4c7-43b4-a4f6-c90df37eabcc",
+    "annotations" : [ {
+      "annotationDate" : "2024-01-07T12:29:49Z",
       "annotationType" : "OTHER",
       "annotator" : "Tool: CycloneToSpdx",
       "comment" : "MISSING_CDX_PROPERTY:componentType=\"LIBRARY\""
@@ -38,51 +59,9 @@
     "primaryPackagePurpose" : "LIBRARY",
     "versionInfo" : "0.9.0"
   }, {
-    "SPDXID" : "SPDXRef-da656eac-4ce3-4702-915c-d2911f37438e",
+    "SPDXID" : "SPDXRef-057a5381-f29e-4961-b14f-ffaa338c78a4",
     "annotations" : [ {
-      "annotationDate" : "2024-01-05T19:11:06Z",
-      "annotationType" : "OTHER",
-      "annotator" : "Tool: CycloneToSpdx",
-      "comment" : "MISSING_CDX_PROPERTY:componentType=\"LIBRARY\""
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "downloadLocation" : "NOASSERTION",
-    "externalRefs" : [ {
-      "referenceCategory" : "PACKAGE-MANAGER",
-      "referenceLocator" : "pkg:pypi/xmlschema@2.5.1",
-      "referenceType" : "purl"
-    } ],
-    "filesAnalyzed" : false,
-    "licenseConcluded" : "NOASSERTION",
-    "licenseDeclared" : "NOASSERTION",
-    "name" : "xmlschema",
-    "primaryPackagePurpose" : "LIBRARY",
-    "versionInfo" : "2.5.1"
-  }, {
-    "SPDXID" : "SPDXRef-f4ec335e-e7b5-4060-82fd-701ab213d56e",
-    "annotations" : [ {
-      "annotationDate" : "2024-01-05T19:11:06Z",
-      "annotationType" : "OTHER",
-      "annotator" : "Tool: CycloneToSpdx",
-      "comment" : "MISSING_CDX_PROPERTY:componentType=\"LIBRARY\""
-    } ],
-    "copyrightText" : "NOASSERTION",
-    "downloadLocation" : "NOASSERTION",
-    "externalRefs" : [ {
-      "referenceCategory" : "PACKAGE-MANAGER",
-      "referenceLocator" : "pkg:pypi/referencing@0.32.1",
-      "referenceType" : "purl"
-    } ],
-    "filesAnalyzed" : false,
-    "licenseConcluded" : "NOASSERTION",
-    "licenseDeclared" : "NOASSERTION",
-    "name" : "referencing",
-    "primaryPackagePurpose" : "LIBRARY",
-    "versionInfo" : "0.32.1"
-  }, {
-    "SPDXID" : "SPDXRef-2b1d62bb-4222-4c29-b984-f2487fe2d439",
-    "annotations" : [ {
-      "annotationDate" : "2024-01-05T19:11:06Z",
+      "annotationDate" : "2024-01-07T12:29:49Z",
       "annotationType" : "OTHER",
       "annotator" : "Tool: CycloneToSpdx",
       "comment" : "MISSING_CDX_PROPERTY:componentType=\"LIBRARY\""
@@ -100,22 +79,43 @@
     "name" : "jsonschema",
     "primaryPackagePurpose" : "LIBRARY",
     "versionInfo" : "4.20.0"
+  }, {
+    "SPDXID" : "SPDXRef-63b70e06-6fde-4c72-95c9-d03ef8972649",
+    "annotations" : [ {
+      "annotationDate" : "2024-01-07T12:29:49Z",
+      "annotationType" : "OTHER",
+      "annotator" : "Tool: CycloneToSpdx",
+      "comment" : "MISSING_CDX_PROPERTY:componentType=\"LIBRARY\""
+    } ],
+    "copyrightText" : "NOASSERTION",
+    "downloadLocation" : "NOASSERTION",
+    "externalRefs" : [ {
+      "referenceCategory" : "PACKAGE-MANAGER",
+      "referenceLocator" : "pkg:pypi/referencing@0.32.1",
+      "referenceType" : "purl"
+    } ],
+    "filesAnalyzed" : false,
+    "licenseConcluded" : "NOASSERTION",
+    "licenseDeclared" : "NOASSERTION",
+    "name" : "referencing",
+    "primaryPackagePurpose" : "LIBRARY",
+    "versionInfo" : "0.32.1"
   } ],
   "relationships" : [ {
     "spdxElementId" : "SPDXRef-DOCUMENT",
     "relationshipType" : "DESCRIBES",
-    "relatedSpdxElement" : "SPDXRef-f4ec335e-e7b5-4060-82fd-701ab213d56e"
+    "relatedSpdxElement" : "SPDXRef-63b70e06-6fde-4c72-95c9-d03ef8972649"
   }, {
     "spdxElementId" : "SPDXRef-DOCUMENT",
     "relationshipType" : "DESCRIBES",
-    "relatedSpdxElement" : "SPDXRef-2b1d62bb-4222-4c29-b984-f2487fe2d439"
+    "relatedSpdxElement" : "SPDXRef-057a5381-f29e-4961-b14f-ffaa338c78a4"
   }, {
     "spdxElementId" : "SPDXRef-DOCUMENT",
     "relationshipType" : "DESCRIBES",
-    "relatedSpdxElement" : "SPDXRef-da656eac-4ce3-4702-915c-d2911f37438e"
+    "relatedSpdxElement" : "SPDXRef-76a5f25d-e025-402b-8462-e0e1098d10f0"
   }, {
     "spdxElementId" : "SPDXRef-DOCUMENT",
     "relationshipType" : "DESCRIBES",
-    "relatedSpdxElement" : "SPDXRef-3aa6ce09-2046-490e-b1b0-193f093646d8"
+    "relatedSpdxElement" : "SPDXRef-b5c7629d-e4c7-43b4-a4f6-c90df37eabcc"
   } ]
 }
