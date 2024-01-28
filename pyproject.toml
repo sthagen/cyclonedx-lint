@@ -7,6 +7,7 @@ name = "cyclonedx-lint"
 version = "2022.7.17"
 description = "Experimental CycloneDX baseline validator."
 readme = "README.md"
+license = {file = "LICENSE"}
 authors = [{ name = "Stefan Hagen", email = "stefan@hagen.link" }]
 maintainers = [{ name = "Stefan Hagen", email = "stefan@hagen.link" }]
 classifiers = [
