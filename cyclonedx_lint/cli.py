@@ -1,4 +1,5 @@
 """Visit folder tree with CycloneDX documents, validate the latter, and generate reports."""
+
 import sys
 from typing import no_type_check
 
