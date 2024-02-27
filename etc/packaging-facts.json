@@ -20,6 +20,7 @@
       "last_month": -1,
       "last_week": -1
     },
+    "dynamic": null,
     "home_page": "https://github.com/sthagen/cyclonedx-lint",
     "keywords": "baseline,cyclonedx,development,extension,software-bill-of-materials,validation",
     "license": "",
@@ -35,6 +36,7 @@
       "Homepage": "https://github.com/sthagen/cyclonedx-lint",
       "Source Code": "https://github.com/sthagen/cyclonedx-lint"
     },
+    "provides_extra": null,
     "release_url": "https://pypi.org/project/cyclonedx-lint/2022.7.17/",
     "requires_dist": [
       "jsonschema (>=4.7.2)",
